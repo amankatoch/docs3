@@ -1,0 +1,1094 @@
+<?xml version="1.0"?>
+<eleganzawp_option_tree>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>Header</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>1</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>img_header_logo</item_id>
+    <item_title>Logo</item_title>
+    <item_desc>The site logo displayed in the header area. The demo logo has dimensions of &amp;lt;strong&amp;gt;233 x 36&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>2</item_sort>
+  </row>
+  <row>
+    <id>111</id>
+    <item_id>submenu_showdelay</item_id>
+    <item_title>Submenu Show Delay</item_title>
+    <item_desc>The delay in milliseconds until the menu shows on hover.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>3</item_sort>
+  </row>
+  <row>
+    <id>112</id>
+    <item_id>submenu_hidedelay</item_id>
+    <item_title>Submenu Hide Delay</item_title>
+    <item_desc>The delay in milliseconds until the menu hides.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>4</item_sort>
+  </row>
+  <row>
+    <id>113</id>
+    <item_id>submenu_overtime</item_id>
+    <item_title>Submenu Over Time</item_title>
+    <item_desc>The over animation time in milliseconds of the submenu.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>5</item_sort>
+  </row>
+  <row>
+    <id>114</id>
+    <item_id>submenu_outtime</item_id>
+    <item_title>Submenu Out Time</item_title>
+    <item_desc>The out animation time in milliseconds of the submenu.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>6</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>txt_header_info</item_id>
+    <item_title>Telephone Text Line</item_title>
+    <item_desc>The info text line displayed in the header area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>7</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>icon_header_facebook</item_id>
+    <item_title>Facebook Social Icon</item_title>
+    <item_desc>Header social icon link. 
+If left blank, the icon will not be displayed.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>8</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>icon_header_twitter</item_id>
+    <item_title>Twitter Social Icon</item_title>
+    <item_desc>Header social icon link. 
+If left blank, the icon will not be displayed.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>9</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>icon_header_linkedin</item_id>
+    <item_title>LinkedIn Social Icon</item_title>
+    <item_desc>Header social icon link. 
+If left blank, the icon will not be displayed.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>10</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>icon_header_rss</item_id>
+    <item_title>RSS Social Icon</item_title>
+    <item_desc>Header social icon link. 
+If left blank, the icon will not be displayed.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>11</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>icon_header_google</item_id>
+    <item_title>Google Social Icon</item_title>
+    <item_desc>Header social icon link. 
+If left blank, the icon will not be displayed.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>12</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>fonts</item_id>
+    <item_title>Fonts</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>13</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>google_web_fonts_info</item_id>
+    <item_title>Google Web Fonts Info</item_title>
+    <item_desc>You can select the headline font from the &amp;quot;Google Web Fonts&amp;quot; directory
+&amp;lt;a href=&amp;quot;http://www.google.com/webfonts#ChoosePlace:select&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;here&amp;lt;/a&amp;gt;.</item_desc>
+    <item_type>textblock</item_type>
+    <item_options></item_options>
+    <item_sort>14</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>fonts_url</item_id>
+    <item_title>Google Web Font URL</item_title>
+    <item_desc>The google web font URL. Make sure to also include a bold version of the font.
+Example:
+&amp;lt;strong&amp;gt;http://fonts.googleapis.com/css?family=PT+Sans:400,700&amp;amp;v2&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>15</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>fonts_family</item_id>
+    <item_title>Google Web Font Family</item_title>
+    <item_desc>The google web font family string.
+Example: &amp;lt;strong&amp;gt;&amp;#039;PT Sans&amp;#039;, sans-serif&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>16</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>fonts_menu_size</item_id>
+    <item_title>Menu Font Size</item_title>
+    <item_desc>The main navigation menu font size.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>17</item_sort>
+  </row>
+  <row>
+    <id>110</id>
+    <item_id>fonts_menu_bold</item_id>
+    <item_title>Menu Font Bold</item_title>
+    <item_desc>Check if you want a bold menu font.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Yes</item_options>
+    <item_sort>18</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>fonts_body_size</item_id>
+    <item_title>Body Font Site</item_title>
+    <item_desc>The main content font size.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>19</item_sort>
+  </row>
+  <row>
+    <id>115</id>
+    <item_id>fonts_h1_size</item_id>
+    <item_title>H1 Font Size</item_title>
+    <item_desc>The font size of the H1 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>20</item_sort>
+  </row>
+  <row>
+    <id>116</id>
+    <item_id>fonts_h2_size</item_id>
+    <item_title>H2 Font Size</item_title>
+    <item_desc>The font size of the H2 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>21</item_sort>
+  </row>
+  <row>
+    <id>117</id>
+    <item_id>fonts_h3_size</item_id>
+    <item_title>H3 Font Size</item_title>
+    <item_desc>The font size of the H3 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>22</item_sort>
+  </row>
+  <row>
+    <id>118</id>
+    <item_id>fonts_h4_size</item_id>
+    <item_title>H4 Font Size</item_title>
+    <item_desc>The font size of the H4 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>23</item_sort>
+  </row>
+  <row>
+    <id>119</id>
+    <item_id>fonts_h5_size</item_id>
+    <item_title>Widget Headline &amp;amp; H5 Font Size</item_title>
+    <item_desc>The font size of the homepage headlines, widget headlines and H5 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>24</item_sort>
+  </row>
+  <row>
+    <id>123</id>
+    <item_id>fonts_h6_size</item_id>
+    <item_title>H6 Font Size</item_title>
+    <item_desc>The font size of the H6 headline tag and shortcode.</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>25</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>colors</item_id>
+    <item_title>Colors</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>26</item_sort>
+  </row>
+  <row>
+    <id>108</id>
+    <item_id>color_preset</item_id>
+    <item_title>Custom Or Preset Colors</item_title>
+    <item_desc>The color scheme of the theme. Select custom if you want to set your own colors using the color pickers or select a predefined set of colors.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>custom,blue,red,green,brown</item_options>
+    <item_sort>27</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>color_highlight1</item_id>
+    <item_title>Primary Highlight Color</item_title>
+    <item_desc>The primary highlight color. 
+Example: Link color.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>28</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>color_highlight2</item_id>
+    <item_title>Secondary HIghlight Color</item_title>
+    <item_desc>The secondary highlight color. 
+Example: Link hover color.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>29</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>color_subheader_background</item_id>
+    <item_title>Subheader Background Color</item_title>
+    <item_desc>The color of the subheader background.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>30</item_sort>
+  </row>
+  <row>
+    <id>122</id>
+    <item_id>submenu_colorscheme</item_id>
+    <item_title>Submenu Color Scheme</item_title>
+    <item_desc>Select the dark or light color scheme for the submenu.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>dark,light</item_options>
+    <item_sort>31</item_sort>
+  </row>
+  <row>
+    <id>120</id>
+    <item_id>submenu_bgtexture</item_id>
+    <item_title>Submenu Background Texture</item_title>
+    <item_desc>Check if you want a background texture for the submenu.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Yes</item_options>
+    <item_sort>32</item_sort>
+  </row>
+  <row>
+    <id>121</id>
+    <item_id>submenu_hoverflip</item_id>
+    <item_title>Submenu Hover Flip</item_title>
+    <item_desc>Check if you want to flip the colors of the submenu hover effect to: highlight color on light color.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Yes</item_options>
+    <item_sort>33</item_sort>
+  </row>
+  <row>
+    <id>104</id>
+    <item_id>color_menulink</item_id>
+    <item_title>Menu Link Color</item_title>
+    <item_desc>The color of the main navigation links.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>34</item_sort>
+  </row>
+  <row>
+    <id>105</id>
+    <item_id>color_menulinkhover</item_id>
+    <item_title>Menu Link Hover Color</item_title>
+    <item_desc>The hover color of the main navigation links.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>35</item_sort>
+  </row>
+  <row>
+    <id>106</id>
+    <item_id>color_submenubghover</item_id>
+    <item_title>Menu Submenu Background Hover Color</item_title>
+    <item_desc>The submenu background hover color.</item_desc>
+    <item_type>colorpicker</item_type>
+    <item_options></item_options>
+    <item_sort>36</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>homepage_nivo_slider</item_id>
+    <item_title>Homepage Nivo Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>37</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>nivoslider_home</item_id>
+    <item_title>Homepage Nivo Slider</item_title>
+    <item_desc>The homepage nivo slider. You can add slides and captions.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>38</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>nivoslider_home_effect</item_id>
+    <item_title>Nivo Slider Effect</item_title>
+    <item_desc>Chose the effect you would like for the nivo slider. For all effects select &amp;quot;random&amp;quot;.</item_desc>
+    <item_type>radio</item_type>
+    <item_options>sliceDown,sliceDownLeft,sliceUp,sliceUpLeft,sliceUpDown,sliceUpDownLeft,fold,fade,random,slideInRight,slideInLeft,boxRandom,boxRain,boxRainReverse,boxRainGrow,boxRainGrowReverse</item_options>
+    <item_sort>39</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>nivoslider_home_slices</item_id>
+    <item_title>Nivo Slider Slices</item_title>
+    <item_desc>The number of slices the nivo slider uses.
+Example: &amp;lt;strong&amp;gt;15&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>40</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>nivoslider_home_boxcols</item_id>
+    <item_title>Nivo Slider Box Columns</item_title>
+    <item_desc>The number of box transition columns.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>41</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>nivoslider_home_boxrows</item_id>
+    <item_title>Nivo Slider Box Rows</item_title>
+    <item_desc>The number of box transition rows.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>42</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>nivoslider_home_animspeed</item_id>
+    <item_title>Nivo Slider Animation Speed</item_title>
+    <item_desc>The slide transition speed in milliseconds.
+Example: &amp;lt;strong&amp;gt;500&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>43</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>nivoslider_home_pausetime</item_id>
+    <item_title>Nivo Slider Pause Time</item_title>
+    <item_desc>The time in milliseconds each slide will show.
+Example: &amp;lt;strong&amp;gt;3000&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>44</item_sort>
+  </row>
+  <row>
+    <id>55</id>
+    <item_id>homepage_header_image</item_id>
+    <item_title>Homepage Header Image</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>45</item_sort>
+  </row>
+  <row>
+    <id>56</id>
+    <item_id>img_home_header</item_id>
+    <item_title>Homepage Header Image</item_title>
+    <item_desc>If you want to use a homepage layout with a header image and no slider, upload your image here.
+&amp;lt;strong&amp;gt;960 x 160px&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>46</item_sort>
+  </row>
+  <row>
+    <id>57</id>
+    <item_id>txt_home_header</item_id>
+    <item_title>Homepage Header Image Caption</item_title>
+    <item_desc>The short caption text for the homepage header image.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>47</item_sort>
+  </row>
+  <row>
+    <id>107</id>
+    <item_id>value_home_header</item_id>
+    <item_title>Homepage Header Image Caption Right</item_title>
+    <item_desc>Check if you want to move the caption text from the left to the right.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Yes</item_options>
+    <item_sort>48</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>homepage_settings</item_id>
+    <item_title>Homepage Settings</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>49</item_sort>
+  </row>
+  <row>
+    <id>44</id>
+    <item_id>headline_home_big</item_id>
+    <item_title>Big Divider Headline</item_title>
+    <item_desc>The big top headline on the home page.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>50</item_sort>
+  </row>
+  <row>
+    <id>43</id>
+    <item_id>headline_home_services</item_id>
+    <item_title>Services Headline</item_title>
+    <item_desc>The headline for the services area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>51</item_sort>
+  </row>
+  <row>
+    <id>45</id>
+    <item_id>headline_home_about</item_id>
+    <item_title>About Headline</item_title>
+    <item_desc>The headline for the about area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>52</item_sort>
+  </row>
+  <row>
+    <id>46</id>
+    <item_id>headline_home_fromblog</item_id>
+    <item_title>From Blog Headline</item_title>
+    <item_desc>The headline for the from blog area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>53</item_sort>
+  </row>
+  <row>
+    <id>47</id>
+    <item_id>headline_home_fromportfolio</item_id>
+    <item_title>From Portfolio Headline</item_title>
+    <item_desc>The headline for the from portfolio area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>54</item_sort>
+  </row>
+  <row>
+    <id>48</id>
+    <item_id>button_home_services</item_id>
+    <item_title>Services Button Text</item_title>
+    <item_desc>The services button text.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>55</item_sort>
+  </row>
+  <row>
+    <id>61</id>
+    <item_id>link_home_services</item_id>
+    <item_title>Services Button Link</item_title>
+    <item_desc>The link on the services button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>56</item_sort>
+  </row>
+  <row>
+    <id>49</id>
+    <item_id>button_home_fromblog</item_id>
+    <item_title>From Blog Button Text</item_title>
+    <item_desc>The from blog button text.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>57</item_sort>
+  </row>
+  <row>
+    <id>62</id>
+    <item_id>link_home_blog</item_id>
+    <item_title>Blog Button Link</item_title>
+    <item_desc>The link on the blog button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>58</item_sort>
+  </row>
+  <row>
+    <id>50</id>
+    <item_id>button_home_fromportfolio</item_id>
+    <item_title>From Portfolio Button Text</item_title>
+    <item_desc>The from portfolio button text.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>59</item_sort>
+  </row>
+  <row>
+    <id>63</id>
+    <item_id>link_home_portfolio</item_id>
+    <item_title>Portfolio Button Link</item_title>
+    <item_desc>The link on the portfolio button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>60</item_sort>
+  </row>
+  <row>
+    <id>34</id>
+    <item_id>img_home_service1</item_id>
+    <item_title>Service 1 Image</item_title>
+    <item_desc>Size: &amp;lt;strong&amp;gt;150 x 110 px&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>61</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>txt_home_service1</item_id>
+    <item_title>Service 1 Text</item_title>
+    <item_desc>The short text for this service.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>62</item_sort>
+  </row>
+  <row>
+    <id>58</id>
+    <item_id>title_home_service1</item_id>
+    <item_title>Service 1 Title</item_title>
+    <item_desc>The title for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>63</item_sort>
+  </row>
+  <row>
+    <id>40</id>
+    <item_id>link_home_service1</item_id>
+    <item_title>Service 1 Link</item_title>
+    <item_desc>The URL link for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>64</item_sort>
+  </row>
+  <row>
+    <id>35</id>
+    <item_id>img_home_service2</item_id>
+    <item_title>Service 2 Image</item_title>
+    <item_desc>Size: &amp;lt;strong&amp;gt;150 x 110 px&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>65</item_sort>
+  </row>
+  <row>
+    <id>38</id>
+    <item_id>txt_home_service2</item_id>
+    <item_title>Service 2 Text</item_title>
+    <item_desc>The short text for this service.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>66</item_sort>
+  </row>
+  <row>
+    <id>59</id>
+    <item_id>title_home_service2</item_id>
+    <item_title>Service 2 Title</item_title>
+    <item_desc>The title for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>67</item_sort>
+  </row>
+  <row>
+    <id>41</id>
+    <item_id>link_home_service2</item_id>
+    <item_title>Service 2 Link</item_title>
+    <item_desc>The URL link for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>68</item_sort>
+  </row>
+  <row>
+    <id>36</id>
+    <item_id>img_home_service3</item_id>
+    <item_title>Service 3 Image</item_title>
+    <item_desc>Size: &amp;lt;strong&amp;gt;150 x 110 px&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>69</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>txt_home_service3</item_id>
+    <item_title>Service 3 Text</item_title>
+    <item_desc>The short text for this service.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>70</item_sort>
+  </row>
+  <row>
+    <id>60</id>
+    <item_id>title_home_service3</item_id>
+    <item_title>Service 3 Title</item_title>
+    <item_desc>The title for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>71</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>link_home_service3</item_id>
+    <item_title>Service 3 Link</item_title>
+    <item_desc>The URL link for this service.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>72</item_sort>
+  </row>
+  <row>
+    <id>51</id>
+    <item_id>partners_home</item_id>
+    <item_title>Partners Carousel</item_title>
+    <item_desc>You can add &amp;lt;strong&amp;gt;125 x 125 px&amp;lt;/strong&amp;gt; images and tooltip captions to the homepage carousel here.</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>73</item_sort>
+  </row>
+  <row>
+    <id>54</id>
+    <item_id>partners_home_interval</item_id>
+    <item_title>Partners Carousel Interval Time</item_title>
+    <item_desc>The interval time in milliseconds for the partners carousel. 
+Example: &amp;lt;strong&amp;gt;5000&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>74</item_sort>
+  </row>
+  <row>
+    <id>52</id>
+    <item_id>headline_home_partners</item_id>
+    <item_title>Partners Headline</item_title>
+    <item_desc>The headline for the partners area.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>75</item_sort>
+  </row>
+  <row>
+    <id>53</id>
+    <item_id>txt_home_partners</item_id>
+    <item_title>Partners Text</item_title>
+    <item_desc>The text displayed next to the partners carousel.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>3</item_options>
+    <item_sort>76</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>rounded_corners</item_id>
+    <item_title>General Options</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>77</item_sort>
+  </row>
+  <row>
+    <id>31</id>
+    <item_id>value_cornerradius</item_id>
+    <item_title>Global Corner Radius</item_title>
+    <item_desc>The global rounded corner value in pixels.
+Default: &amp;lt;strong&amp;gt;3&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>measurement</item_type>
+    <item_options></item_options>
+    <item_sort>78</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>img_imagebgtile</item_id>
+    <item_title>Image Background Tile</item_title>
+    <item_desc>The background tile used for certain images and buttons.
+Default: &amp;lt;strong&amp;gt;Diagonal tile&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>79</item_sort>
+  </row>
+  <row>
+    <id>64</id>
+    <item_id>blog</item_id>
+    <item_title>Blog</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>80</item_sort>
+  </row>
+  <row>
+    <id>109</id>
+    <item_id>button_blog_readmore</item_id>
+    <item_title>Read More Button Text</item_title>
+    <item_desc>The text of the read more buttons.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>81</item_sort>
+  </row>
+  <row>
+    <id>65</id>
+    <item_id>news</item_id>
+    <item_title>News</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>82</item_sort>
+  </row>
+  <row>
+    <id>71</id>
+    <item_id>page_newsoverview</item_id>
+    <item_title>News Overview Page Slug</item_title>
+    <item_desc>The permalink you gave your news overview page. Example: &amp;lt;strong&amp;gt;news&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>83</item_sort>
+  </row>
+  <row>
+    <id>66</id>
+    <item_id>value_news_postsperpage</item_id>
+    <item_title>Posts Per Page</item_title>
+    <item_desc>The number of news posts displayed on the news overview page.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>84</item_sort>
+  </row>
+  <row>
+    <id>67</id>
+    <item_id>button_news_readmore</item_id>
+    <item_title>Read More Button Text</item_title>
+    <item_desc>The text of the read more button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>85</item_sort>
+  </row>
+  <row>
+    <id>68</id>
+    <item_id>services</item_id>
+    <item_title>Services</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>86</item_sort>
+  </row>
+  <row>
+    <id>72</id>
+    <item_id>page_servicesoverview</item_id>
+    <item_title>Services Overview Page Slug</item_title>
+    <item_desc>The permalink you gave your services overview page. Example: &amp;lt;strong&amp;gt;services&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>87</item_sort>
+  </row>
+  <row>
+    <id>69</id>
+    <item_id>value_services_postsperpage</item_id>
+    <item_title>Posts Per Page</item_title>
+    <item_desc>The number of news posts displayed on the services overview page.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>88</item_sort>
+  </row>
+  <row>
+    <id>70</id>
+    <item_id>button_services_readmore</item_id>
+    <item_title>Read More Button Text</item_title>
+    <item_desc>The text of the read more button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>89</item_sort>
+  </row>
+  <row>
+    <id>73</id>
+    <item_id>portfolio</item_id>
+    <item_title>Portfolio</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>90</item_sort>
+  </row>
+  <row>
+    <id>74</id>
+    <item_id>page_portfoliooverview</item_id>
+    <item_title>Default Portfolio Overview Page Slug</item_title>
+    <item_desc>The permalink you gave the portfolio overview page you want to use. Example: &amp;lt;strong&amp;gt;portfolio&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>91</item_sort>
+  </row>
+  <row>
+    <id>75</id>
+    <item_id>button_portfolio_visit</item_id>
+    <item_title>Visit Project Button Text</item_title>
+    <item_desc>The text of the visit project button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>92</item_sort>
+  </row>
+  <row>
+    <id>76</id>
+    <item_id>title_portfolio_categories</item_id>
+    <item_title>Portfolio Sidebar Categories Headline</item_title>
+    <item_desc>The title of the sidebar portfolio categories on the overview page.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>93</item_sort>
+  </row>
+  <row>
+    <id>77</id>
+    <item_id>contact</item_id>
+    <item_title>Contact</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>94</item_sort>
+  </row>
+  <row>
+    <id>78</id>
+    <item_id>title_contactform</item_id>
+    <item_title>Contact Form Headline</item_title>
+    <item_desc>The text of the contact form headline.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>95</item_sort>
+  </row>
+  <row>
+    <id>79</id>
+    <item_id>email_contactform</item_id>
+    <item_title>Contact Form Email Address</item_title>
+    <item_desc>The email address you want the form messages to be send to.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>96</item_sort>
+  </row>
+  <row>
+    <id>80</id>
+    <item_id>label_contactname</item_id>
+    <item_title>Contact Form Name Label</item_title>
+    <item_desc>The label for the name field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>97</item_sort>
+  </row>
+  <row>
+    <id>81</id>
+    <item_id>label_contactaddress</item_id>
+    <item_title>Contact Form Address Label</item_title>
+    <item_desc>The label for the address field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>98</item_sort>
+  </row>
+  <row>
+    <id>82</id>
+    <item_id>label_contactemail</item_id>
+    <item_title>Contact Form Email Label</item_title>
+    <item_desc>The label for the email field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>99</item_sort>
+  </row>
+  <row>
+    <id>83</id>
+    <item_id>label_contactphone</item_id>
+    <item_title>Contact Form Phone Label</item_title>
+    <item_desc>The label for the phone field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>100</item_sort>
+  </row>
+  <row>
+    <id>84</id>
+    <item_id>label_contactmessage</item_id>
+    <item_title>Contact Form Message Label</item_title>
+    <item_desc>The label for the message field.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>101</item_sort>
+  </row>
+  <row>
+    <id>85</id>
+    <item_id>label_contactsubmit</item_id>
+    <item_title>Contact Form Submit Button Text</item_title>
+    <item_desc>The label for the form submit button.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>102</item_sort>
+  </row>
+  <row>
+    <id>86</id>
+    <item_id>message_contacterror</item_id>
+    <item_title>Contact Form Error Message</item_title>
+    <item_desc>The form error message.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>103</item_sort>
+  </row>
+  <row>
+    <id>87</id>
+    <item_id>message_contactsuccess</item_id>
+    <item_title>Contact Form Success Message</item_title>
+    <item_desc>The contact form success message.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>104</item_sort>
+  </row>
+  <row>
+    <id>88</id>
+    <item_id>message_contactsending</item_id>
+    <item_title>Contact Form Sending Message</item_title>
+    <item_desc>The contact form sending message.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>105</item_sort>
+  </row>
+  <row>
+    <id>89</id>
+    <item_id>google_maps</item_id>
+    <item_title>Google Maps</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>106</item_sort>
+  </row>
+  <row>
+    <id>90</id>
+    <item_id>googlemaps_lat</item_id>
+    <item_title>Latitude</item_title>
+    <item_desc>The latitude of your map location.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>107</item_sort>
+  </row>
+  <row>
+    <id>91</id>
+    <item_id>googlemaps_long</item_id>
+    <item_title>Longitude</item_title>
+    <item_desc>The longitude of your map location.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>108</item_sort>
+  </row>
+  <row>
+    <id>92</id>
+    <item_id>googlemaps_defaultzoom</item_id>
+    <item_title>Default Zoom</item_title>
+    <item_desc>The starting zoom setting. 
+Example: &amp;lt;strong&amp;gt;14&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>109</item_sort>
+  </row>
+  <row>
+    <id>93</id>
+    <item_id>googlemaps_clickzoom</item_id>
+    <item_title>Click Zoom</item_title>
+    <item_desc>The zoom setting when location marker is clicked. 
+Example: &amp;lt;strong&amp;gt;17&amp;lt;/strong&amp;gt;</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>110</item_sort>
+  </row>
+  <row>
+    <id>94</id>
+    <item_id>googlemaps_title</item_id>
+    <item_title>Location Title</item_title>
+    <item_desc>The text when hovering over the location marker.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>111</item_sort>
+  </row>
+  <row>
+    <id>95</id>
+    <item_id>footer</item_id>
+    <item_title>Footer</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>112</item_sort>
+  </row>
+  <row>
+    <id>96</id>
+    <item_id>subfooter_linklist</item_id>
+    <item_title>Sub-Footer Link List</item_title>
+    <item_desc>The link list displayed in the sub-footer area.</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>8</item_options>
+    <item_sort>113</item_sort>
+  </row>
+  <row>
+    <id>97</id>
+    <item_id>newsletter</item_id>
+    <item_title>Newsletter</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>114</item_sort>
+  </row>
+  <row>
+    <id>98</id>
+    <item_id>email_newsletter</item_id>
+    <item_title>Newsletter Widget Email Address</item_title>
+    <item_desc>The target email address used for the newsletter widget.</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>115</item_sort>
+  </row>
+  <row>
+    <id>99</id>
+    <item_id>social_sharing</item_id>
+    <item_title>Social Sharing</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>116</item_sort>
+  </row>
+  <row>
+    <id>100</id>
+    <item_id>share_facebook</item_id>
+    <item_title>Facebook Sharing Button</item_title>
+    <item_desc>Activate or deactivate this social sharing button displayed on posts.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Show</item_options>
+    <item_sort>117</item_sort>
+  </row>
+  <row>
+    <id>101</id>
+    <item_id>share_twitter</item_id>
+    <item_title>Twitter Sharing Button</item_title>
+    <item_desc>Activate or deactivate this social sharing button displayed on posts.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Show</item_options>
+    <item_sort>118</item_sort>
+  </row>
+  <row>
+    <id>102</id>
+    <item_id>share_google</item_id>
+    <item_title>GooglePlus Sharing Button</item_title>
+    <item_desc>Activate or deactivate this social sharing button displayed on posts.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>Show</item_options>
+    <item_sort>119</item_sort>
+  </row>
+</eleganzawp_option_tree>

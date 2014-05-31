@@ -1,0 +1,2 @@
+[20-Mar-2014 14:38:34] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT * FROM wp_lambda_sliders WHERE id =
+[08-May-2014 04:34:13] PHP Fatal error:  Call to undefined function  get_option_tree() in /home/oxpand/public_html/cms/wp-content/themes/nebraska/javascripts/slider.init.php on line 161

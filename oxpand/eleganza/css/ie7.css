@@ -1,0 +1,83 @@
+/*
+Eleganza Corporate Buisiness WordPress Theme
+IE7 FIXES
+*/
+
+#headercontainer { left: 0; }
+
+#headersocial {
+	margin-left: -960px;
+}
+
+#headertextline {
+	margin-left: -960px;
+}
+
+#slider .nivo-controlNav {
+	position:absolute;
+	left:0;
+	bottom:-95px;
+}
+
+/* Sub level menu links style */
+.ddsmoothmenu ul li ul li a{
+	width: 190px; /*width of sub menus*/
+	padding: 10px;
+    padding-left: 10px;
+	border-top-width: 0;
+}
+
+.ddsmoothmenu ul li ul li{
+	padding: 0px;
+	padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ddsmoothmenu ul ul{
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+#search .searchbutton { 
+	line-height: 16px;
+}
+
+.subsearch .searchbutton { 
+	margin-left: -1px;
+}
+
+.dividerbig {
+	padding-top: 15px;
+	padding-bottom: 4px;
+}
+
+.blogcategories {
+	padding-bottom: 4px;
+}
+
+#minigal {
+	margin-bottom: 0px;
+}
+
+.sidebarads {
+	margin-bottom: 0px;
+}
+
+.addreply, .sendmessage, .sendnews {
+	line-height: 23px;
+	border: 0;
+} 
+
+.addreply:hover, .sendmessage:hover, .sendnews:hover { 
+	border: 0;
+}
+
+.pricingtable tbody span.check{
+	margin-left: -16px;
+	margin-top: -12px;
+}
+.pricingtable tbody span.no{
+	margin-left: -16px;
+	margin-top: -12px;
+}
